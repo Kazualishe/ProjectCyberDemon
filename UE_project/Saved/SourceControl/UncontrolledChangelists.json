@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/ProjectCyberDemon/UE_project/Content/ThirdPerson/Input/Actions/IA_VAttack.uasset",
+				"D:/GitHub/ProjectCyberDemon/UE_project/Content/ThirdPerson/Input/Actions/IA_HAttack.uasset",
+				"D:/GitHub/ProjectCyberDemon/UE_project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/GitHub/ProjectCyberDemon/UE_project/Content/ThirdPerson/Input/Actions/IA_VAtack.uasset",
 				"D:/UE_project/CyberDemon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
