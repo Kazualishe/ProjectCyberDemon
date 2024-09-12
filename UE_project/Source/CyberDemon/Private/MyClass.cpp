@@ -5,6 +5,7 @@
 
 MyClass::MyClass()
 {
+	printf("asd");
 }
 
 MyClass::~MyClass()
